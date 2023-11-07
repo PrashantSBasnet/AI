@@ -66,6 +66,5 @@ public class App {
 
        DepthFirstSearch depthFirstSearch = new DepthFirstSearch();
        depthFirstSearch.dfs(list);
-
    }
 }
